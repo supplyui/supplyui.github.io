@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Is UX Really that Important?"
+title:  "UX Designers are the new Data Scientists"
 date:   2018-09-29 15:42:26 +0800
 categories: jekyll update
 background: '/img/posts/01.jpg'
