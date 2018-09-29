@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "UX Designers are the new Data Scientists"
+title:  "UX Designers Are The New Data Scientists"
 date:   2018-09-29 15:42:26 +0800
 categories: jekyll update
 background: '/img/posts/01.jpg'
