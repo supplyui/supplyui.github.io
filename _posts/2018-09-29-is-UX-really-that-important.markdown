@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Is UX Really that Important?"
 date:   2018-09-29 15:42:26 +0800
 categories: jekyll update
 background: '/img/posts/01.jpg'
